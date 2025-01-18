@@ -8,7 +8,7 @@ This report analyzes regional sales performance from 2014 to 2018 to uncover cri
 
 The analysis was conducted using the following tools:
 
-Microsoft Excel: For data cleaning, manipulation, and preliminary analysis.
+Microsoft Excel: For data cleaning and manipulation.
 
 Tableau: For advanced data visualization and creating interactive dashboards.
 
