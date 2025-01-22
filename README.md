@@ -70,5 +70,7 @@ Shipping Modes: Standard Class was the most utilized shipping method, with limit
 # Summary
 
 The analysis highlights strong performance in the West region, consistent year-on-year growth until 2017, and the dominance of the Consumer segment. However, underperforming regions, declining sales in 2018, and underutilization of certain shipping modes point to areas for improvement.
+
 To address these issues, it is recommended to investigate the factors contributing to the 2018 sales decline and develop strategies to recover lost revenue. Efforts should also focus on expanding underperforming regions, particularly the Central and South regions, and states like Montana and New Mexico. Diversifying efforts across segments by enhancing marketing for the Corporate and Home Office sectors could balance revenue streams.
+
 Additionally, promoting Same Day delivery as a shipping option can enhance customer satisfaction and attract high-value orders. Leveraging strategies from high-performing cities and regions, as well as recognizing and replicating the techniques of top-performing sales personnel, can drive growth and uplift overall team performance.
