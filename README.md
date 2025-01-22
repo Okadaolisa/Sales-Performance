@@ -59,15 +59,6 @@ Shipping Modes: Standard Class was the most utilized shipping method, with limit
 
 # Summary
 
-The analysis highlights a strong performance in the West region, consistent year-on-year growth until 2017, and the dominance of the Consumer segment. 
-However, underperforming regions and declining sales in 2018 indicate opportunities for improvement. Shipping modes also suggest untapped potential in Same Day delivery.
-
-# Recommendations
-
-Investigate 2018 Sales Decline: Identify the factors contributing to the drop and develop strategies to recover lost revenue.
-Expand Underperforming Regions: Focus on increasing sales in the Central and South regions and states like Montana and New Mexico.
-Diversify Segment Efforts: Enhance marketing and sales efforts for the Corporate and Home Office segments to balance revenue streams.
-Promote Same Day Delivery: Encourage adoption of Same Day shipping to improve customer satisfaction and attract high-value orders.
-Leverage Success Strategies: Replicate strategies from high-performing cities and regions to boost growth in underperforming areas.
-Recognize High Performers: Use the techniques of top-performing sales personnel to mentor and uplift team performance.
-
+The analysis highlights strong performance in the West region, consistent year-on-year growth until 2017, and the dominance of the Consumer segment. However, underperforming regions, declining sales in 2018, and underutilization of certain shipping modes point to areas for improvement.
+To address these issues, it is recommended to investigate the factors contributing to the 2018 sales decline and develop strategies to recover lost revenue. Efforts should also focus on expanding underperforming regions, particularly the Central and South regions, and states like Montana and New Mexico. Diversifying efforts across segments by enhancing marketing for the Corporate and Home Office sectors could balance revenue streams.
+Additionally, promoting Same Day delivery as a shipping option can enhance customer satisfaction and attract high-value orders. Leveraging strategies from high-performing cities and regions, as well as recognizing and replicating the techniques of top-performing sales personnel, can drive growth and uplift overall team performance.
