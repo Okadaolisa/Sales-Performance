@@ -29,9 +29,11 @@ This process ensured the dataset was accurate, complete, and ready for analysis.
 Using Tableau, interactive visualizations were created to represent:
 
 ![image](https://github.com/user-attachments/assets/07834e78-f330-4c3d-b713-0e4cde585109)
+
 Regional contributions to total sales through pie charts and bar graphs
 
 ![image](https://github.com/user-attachments/assets/080eacef-26b4-4c1f-b85b-c4c39f45e0b9)
+
 Yearly sales trends with line graphs
 
 ![image](https://github.com/user-attachments/assets/8840f3ba-032a-49d5-89d5-3eb5a643fd15)
@@ -44,9 +46,11 @@ Performance of cities and segments using heat maps and bar charts
 Shipping mode usage trends to identify delivery preferences.
 
 ![image](https://github.com/user-attachments/assets/d1a9db9d-280b-4cac-8781-9243d64d3ce9)
+
 Sales persons performance per year
 
 ![Sales Perf](https://github.com/user-attachments/assets/0beb1551-494d-44f2-88c0-56a4e8d87f8c)
+
 Interactive Dashboard https://public.tableau.com/app/profile/adaolisa.okafor/viz/SalesPerformance_17218473857950/Dashboard2
 
 These visualizations provided actionable insights into sales distribution and operational performance.
