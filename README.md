@@ -17,7 +17,9 @@ Tableau: For advanced data visualization and creating interactive dashboards.
 Data cleaning involved:
 
 Removing duplicates and inconsistencies in the sales records.
+
 Ensuring uniformity in data formats, such as dates and regional labels.
+
 Addressing missing data by cross-referencing other sources or using estimations for minor gaps.
 
 This process ensured the dataset was accurate, complete, and ready for analysis.
@@ -52,9 +54,13 @@ These visualizations provided actionable insights into sales distribution and op
 # Result
 
 Regional Sales: The West region contributed the most sales (60%, $107.48K), followed by the East (23%, $41.71K), South (10%, $17.31K), and Central (8%, $14.01K).
+
 Yearly Trends: Sales peaked in 2017 at $70K but declined significantly in 2018, requiring further investigation.
+
 Top Cities: Los Angeles and Seattle were the leading cities in sales, while Montana and New Mexico underperformed within the West region.
+
 Segment Performance: The Consumer segment dominated sales, with the Corporate and Home Office segments showing potential for growth.
+
 Shipping Modes: Standard Class was the most utilized shipping method, with limited adoption of Same Day delivery.
 
 # Summary
